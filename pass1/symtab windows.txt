@@ -1,0 +1,38 @@
+
+0	START
+
+0	LDA
+
+0	ALPHA
+
+0	ADD
+
+0	ONE
+
+0	SUB
+
+0	TWO
+
+0	STA
+
+0	BETA
+
+0	ALPHA
+
+0	BYTE
+
+0	CKLNCE
+
+0	ONE
+
+0	RESB
+
+0	TWO
+
+0	WORD
+
+0	BETA
+
+0	RESW
+
+0	END
